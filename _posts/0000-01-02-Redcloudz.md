@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+MONEY is a terrible master but an excellent servant.
 Use the left arrow to go back!
